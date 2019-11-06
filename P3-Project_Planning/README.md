@@ -18,4 +18,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-[Github Repo link] (https://github.com/hack1973/beer-cans)
+[Github Repo link] (https://github.com/hack1973/beer-can)
