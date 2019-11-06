@@ -14,7 +14,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-[Trello link] (https://trello.com/b/1kc1hqyW/beer-cans)
+[Trello link] (https://trello.com/b/1kc1hqyW/beer-can)
 
 ### Project Repo Link
 
